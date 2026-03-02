@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-## About Me<br><br>Hi! I'm Nkosinathi Ngwenya, a BSc Computer Science student at the University of Pretoria (UP) and an AI developer passionate about building intelligent systems. I love turning ideas into projects, experimenting with new tools, and sharing my work with the community. When I'm not coding, you’ll find me learning new frameworks, tinkering with AI models, or contributing to open-source.
+## <br><br>Hi! I'm Nkosinathi Ngwenya, a BSc Computer Science student at the University of Pretoria (UP) and an AI developer passionate about building intelligent systems. I love turning ideas into projects, experimenting with new tools, and sharing my work with the community. When I'm not coding, you’ll find me learning new frameworks, tinkering with AI models, or contributing to open-source.
 
 
 ## 🌐 Socials:
